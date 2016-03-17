@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-first repository
+editan yang ke 2
